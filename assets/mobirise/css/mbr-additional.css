@@ -1492,8 +1492,6 @@ a {
   background-color: #fed7d2;
 }
 .cid-slYBxhCU8g {
-  padding-top: 0px;
-  padding-bottom: 0px;
   background-color: #efeeee;
 }
 .cid-slYBxhCU8g .container {
@@ -1987,6 +1985,12 @@ a {
 }
 .cid-slYF9wRMn8 .mbr-section-title {
   color: #b9e8e2;
+}
+.cid-ta3tdK1HHw .container,
+.cid-ta3tdK1HHw .container-fluid {
+  padding: 0;
+  width: 100% !important;
+  max-width: 100% !important;
 }
 .cid-t9QYNMhTdq {
   padding-top: 3rem;
